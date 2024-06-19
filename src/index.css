@@ -1,0 +1,9 @@
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+.seachBox{
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}

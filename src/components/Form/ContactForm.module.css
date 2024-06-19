@@ -1,0 +1,15 @@
+.nameInput{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-bottom: 5px;
+}
+.telInput{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-bottom: 5px;
+}
+.addBtn{
+    margin-bottom: 5px;
+}

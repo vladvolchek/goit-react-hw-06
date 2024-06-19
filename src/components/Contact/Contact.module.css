@@ -1,0 +1,13 @@
+.contact{
+    width: 240px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5px
+}
+.nameContact{
+    margin-bottom: 5px;
+}
+.telContact{
+    margin-bottom: 5px;
+}
